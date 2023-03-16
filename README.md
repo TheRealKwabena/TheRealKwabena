@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kwabena_t" target="blank"><img src="https://img.shields.io/twitter/follow/kwabena_t?logo=twitter&style=for-the-badge" alt="kwabena_t" /></a> </p>
 
-- 🔭 I’m currently working on **Dentistimo group project**
+- 🔭 I’m currently working on **Universeum Spring Boot Project**
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React and Spring Boot Framework**
 
 - 💬 Ask me about **Vue, Java, Typescript**
 
