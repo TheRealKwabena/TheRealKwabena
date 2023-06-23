@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Universeum Spring Boot Project**
 
-- 🌱 I’m currently learning **React and Spring Boot Framework**
+- 🌱 I’m currently learning **Flutter and Dart**
 
-- 💬 Ask me about **Vue, Java, Typescript**
+- 💬 Ask me about **Vue, Java, Typescript, Spring Boot**
 
 - 📫 How to reach me **gusasarkw@student.gu.se**
 
-- ⚡ Fun fact **I like to play football and cracking jokes with my loved ones**
+- ⚡ Fun fact **I like to play football and crack jokes with my loved ones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
