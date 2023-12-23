@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Vue, Java, Typescript, Spring Boot**
 
-- 📫 How to reach me **gusasarkw@student.gu.se**
+- 📫 How to reach me **kobbzasare1@outlook.com**
 
 - ⚡ Fun fact **I like to play football and crack jokes with my loved ones**
 
