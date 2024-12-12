@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Universeum Spring Boot Project**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Azure and Kubernetes**
 
 - 💬 Ask me about **Vue, Java, Typescript, Spring Boot**
 
