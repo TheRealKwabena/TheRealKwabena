@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/kwabena_t" target="blank"><img src="https://img.shields.io/twitter/follow/kwabena_t?logo=twitter&style=for-the-badge" alt="kwabena_t" /></a> </p>
 
-- 🔭 I’m currently working on **AI Recruiting Platform**
+- 🔭 I’m currently working on **Stock and Options Trading Platform using AI workflows**
 
-- 🌱 I’m currently learning **Azure and Kubernetes**
 
 - 💬 Ask me about **Vue, Java, Typescript, Spring Boot**
 
-- 📫 How to reach me **kobbzasare1@outlook.com**
+- 📫 How to reach me **kwabenaasarebostrom2023@gmail.com**
 
 - ⚡ Fun fact **I like to play football and crack jokes with my loved ones**
 
